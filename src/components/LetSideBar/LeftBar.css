@@ -1,0 +1,17 @@
+.leftBar{
+    overflow: hidden;
+    padding: 20px;
+    background-color: #191725;
+    height: 100vh;
+    position: sticky;
+    top: 0;
+}
+.leftBar .logo{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.logo img{
+    width: 150px;
+    height: 80px;
+}
