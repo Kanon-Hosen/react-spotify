@@ -1,0 +1,23 @@
+.main{
+    padding: 20px;
+    min-height: 100vh;
+    background-color: #000046 ;;
+}
+.main .main-title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main .main-title h2{
+    color: rgb(236, 236, 236);
+    font-weight: 500;
+}
+.main .main-title select{
+    background-color: #000000;
+    border: none;
+    outline: none;
+    padding: 10px;
+    color: rgb(185, 185, 185);
+    font-size: 14px;
+    border-radius: 6px;
+}
