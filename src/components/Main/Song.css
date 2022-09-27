@@ -1,0 +1,33 @@
+.song{
+    background-color: #00003a;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+.song .img{
+    width: 100%;
+    height: 70%;
+}
+.song img{
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.song p{
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0;
+    padding: 10px 20px;
+}
+.song h6{
+    font-size: 14px;
+    color: white;
+    margin: 0;
+    font-weight: 400;
+    padding: 0px 20px;
+}

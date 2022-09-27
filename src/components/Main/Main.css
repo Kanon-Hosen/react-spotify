@@ -21,3 +21,11 @@
     font-size: 14px;
     border-radius: 6px;
 }
+.song-display{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    gap: 20px;
+    /* width: 100%; */
+    overflow: hidden;
+    margin-top: 1rem;
+}
